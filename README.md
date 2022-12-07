@@ -2,8 +2,10 @@
 ----------------------------
 Hope you like it! 
 
-I'm 22 years old, computer science student. I am learning day by day about programming... it's my favourite hobbie and job and will be forever
+I'm 22 years old, computer science student. I am learning day by day about programming... it's my favourite hobbie and job, and it will be forever
+
 My chosen language is C#, and my chosen framework .NET!
+
 One of the things I most like is making APIs and researching the best methodologies to build projects
 
 Here you can get a little more of information about me:
